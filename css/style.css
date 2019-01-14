@@ -4,5 +4,7 @@ p {
 }
 
 fig-caption {
+  font-weight: normal;
+  font-size: .75em;
   
 }
